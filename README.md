@@ -1,1 +1,1 @@
-# .github
+https://sparganothis.org/
